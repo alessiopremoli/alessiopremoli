@@ -1,9 +1,7 @@
-## Hello, I'm Alessio! 👋
+## 🚀 Hello, I'm Alessio!
 I'm  Alessio Premoli, freelance full stack developer and sound-artist from Milan, Italy. I make sites and web applications, and I'm an explorer of data sonifications and generative music.
 
 Currently working as a freelancer in various fintech companies and making some data-sonifications, but open to new projects reach me via [email](mailto:alessio.premoli@outlook.it), on [Upwork](https://www.upwork.com/freelancers/~01d198758423fd696f) and [Linkedin](https://www.linkedin.com/in/alessio-premoli/)
-
-<br />
 
 ## 💾 I code with:
 <p>
@@ -35,8 +33,6 @@ Currently working as a freelancer in various fintech companies and making some d
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white&style=flat-square"> 
 </p>  
 
-<br />
-
 ## 🤖 Some of my projects
 -  [Atelier PiccoliBit](https://www.atelierpiccolibit.it/): an online school for digital art, music, poetry, and dance, developed in Angular and Express;
 - [Chelidon Frame](): official site for my experimental electronic project Chelidon Frame;
@@ -45,3 +41,7 @@ Currently working as a freelancer in various fintech companies and making some d
 - [HYPERSPACE IS THE HYPERPLACE](https://www.facebook.com/events/865059864059058): a generative soundscape for unattended code-controlled analog synthesizers and random guitar loops, made using SuperCollider and Ableton Live;
 - [de_composing](https://paratissima.it/x/chelidon-frame_de_composing/): an A/V project that glitches various pictures according to CO2 emission, made with Processing and SuperCollider;
 - [The List](https://www.youtube.com/watch?v=-Q4W8X-zGcQ): multichannel sound sculpture that broadcast an algorithmic composition made from the numbers included in UNITED Against Refugee Deaths’ List of Deaths. Data ETL made in Python, sound generation made with Logic and boradcasted with a Raspberry Pi.
+
+<img src="https://github-readme-stats.vercel.app/api?username=alessiopremoli&show_icons=true&count_private=true&include_all_commits=true">
+
+
