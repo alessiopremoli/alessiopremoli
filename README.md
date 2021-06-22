@@ -25,7 +25,7 @@ Currently working as a freelancer in various fintech companies and making some d
     <img src="https://img.shields.io/badge/-p5.js-ED225D?logo=p5.js&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=Microsoft SQL Server&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=Microsoft-SQL-Server&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=flat-square">
