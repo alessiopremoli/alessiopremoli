@@ -35,8 +35,8 @@ Currently working as a freelancer in various fintech companies and making some d
 
 ## 🤖 Take a look to some of my projects
 -  [Atelier PiccoliBit](https://www.atelierpiccolibit.it/): an online school for digital art, music, poetry, and dance, developed in Angular and Express;
-- [Chelidon Frame](): official site for my experimental electronic project Chelidon Frame;
-- [COVID-19 Data Sonification](covid19-data-sonification.space/): an online web audio installation that turns the daily numbers of confirmed cases, recovered patients and new deaths into ever-evolving sound waves. Made with Angular, Tone.js and E-Charts;
+- [Chelidon Frame](https://chelidonframe.site/): official site for my experimental electronic project Chelidon Frame;
+- [COVID-19 Data Sonification](https://covid19-data-sonification.space/): an online web audio installation that turns the daily numbers of confirmed cases, recovered patients and new deaths into ever-evolving sound waves. Made with Angular, Tone.js and E-Charts;
 - [wetcli](https://github.com/alessiopremoli/wetcli): a WIP Python CLI for sending files using WeTransfer;
 - [Associazione 232APS](https://www.associazione232.org/): official site of 232APS, a no-profit that uses hip-hop as a means of expression for young inmates.
 - [HYPERSPACE IS THE HYPERPLACE](https://www.facebook.com/events/865059864059058): a generative soundscape for unattended code-controlled analog synthesizers and random guitar loops, made using SuperCollider and Ableton Live;
