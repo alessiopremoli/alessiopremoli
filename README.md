@@ -36,12 +36,12 @@ Currently working as a freelancer in various fintech companies and making some d
 ## 🤖 Take a look to some of my projects
 -  [Atelier PiccoliBit](https://www.atelierpiccolibit.it/): an online school for digital art, music, poetry, and dance, developed in Angular and Express;
 - [Chelidon Frame](https://chelidonframe.site/): official site for my experimental electronic project Chelidon Frame;
-- [COVID-19 Data Sonification](https://covid19-data-sonification.space/): an online web audio installation that turns the daily numbers of confirmed cases, recovered patients and new deaths into ever-evolving sound waves. Made with Angular, Tone.js and E-Charts;
 - [urlify](https://alessiopremoli.github.io/urlify/): a simple, small (1kb), and no-dependencies typescript url concatenator to use in requests and API calls. Try it `npm i @alessiopremoli/urlify`
 - [wetcli](https://github.com/alessiopremoli/wetcli): a WIP Python CLI for sending files using WeTransfer;
 - [Associazione 232APS](https://www.associazione232.org/): official site of 232APS, a no-profit that uses hip-hop as a means of expression for young inmates.
 
 ## 🤖 Have a listen to some of my sounds
+- [COVID-19 Data Sonification](https://covid19-data-sonification.space/): an online web audio installation that turns the daily numbers of confirmed cases, recovered patients and new deaths into ever-evolving sound waves. Made with Angular, Tone.js and E-Charts;
 - [HYPERSPACE IS THE HYPERPLACE](https://www.facebook.com/events/865059864059058): a generative soundscape for unattended code-controlled analog synthesizers and random guitar loops, made using SuperCollider and Ableton Live;
 - [de_composing](https://paratissima.it/x/chelidon-frame_de_composing/): an A/V project that glitches various pictures according to CO2 emission, made with Processing and SuperCollider;
 - [The List](https://www.youtube.com/watch?v=-Q4W8X-zGcQ): multichannel sound sculpture that broadcast an algorithmic composition made from the numbers included in UNITED Against Refugee Deaths’ List of Deaths. Data ETL made in Python, sound generation made with Logic and boradcasted with a Raspberry Pi.
