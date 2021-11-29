@@ -34,13 +34,14 @@ Currently working as a freelancer in various fintech companies and making some d
 </p>  
 
 ## 🤖 Take a look to some of my projects
--  [Atelier PiccoliBit](https://www.atelierpiccolibit.it/): an online school for digital art, music, poetry, and dance, developed in Angular and Express;
+- [Accordeur en Linge GLAAC](https://accordeur-en-ligne.groovelikeapig.com/) a web based bass tuner for the online school GLAAP with two modalities: playback (listen to the note and tune) and automatic, with note recognition;
+- [GAAB Official Site](https://www.gaab.studio/) official site for industrail designer / artist Gabriele Faoro
 - [Chelidon Frame](https://chelidonframe.site/): official site for my experimental electronic project Chelidon Frame;
 - [urlify](https://alessiopremoli.github.io/urlify/): a simple, small (1kb), and no-dependencies typescript url concatenator to use in requests and API calls. Try it `npm i @alessiopremoli/urlify`
 - [wetcli](https://github.com/alessiopremoli/wetcli): a WIP Python CLI for sending files using WeTransfer;
 - [Associazione 232APS](https://www.associazione232.org/): official site of 232APS, a no-profit that uses hip-hop as a means of expression for young inmates.
-- [Accordeur en Linge GLAAC](https://accordeur-en-ligne.groovelikeapig.com/) a web based bass tuner for the online school GLAAP with two modalities: playback (listen to the note and tune) and automatic, with note recognition;
-- [GAAB Official Site](https://www.gaab.studio/) official site for industrail designer / artist Gabriele Faoro
+- [Atelier PiccoliBit](https://www.atelierpiccolibit.it/): an online school for digital art, music, poetry, and dance, developed in Angular and Express;
+
 
 ## 🤖 Have a listen to some of my sounds
 - [COVID-19 Data Sonification](https://covid19-data-sonification.space/): an online web audio installation that turns the daily numbers of confirmed cases, recovered patients and new deaths into ever-evolving sound waves. Made with Angular, Tone.js and E-Charts;
