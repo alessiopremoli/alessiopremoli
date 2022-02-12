@@ -37,7 +37,7 @@ Currently working as a freelancer in various fintech companies and making some d
 - [Accordeur en Linge GLAAC](https://accordeur-en-ligne.groovelikeapig.com/): a web based bass tuner for the online school GLAAP with two modalities: playback (listen to the note and tune) and automatic, with note recognition;
 - [Gabriele Faoro Site](https://www.gaab.studio/): official site for industrail designer / artist Gabriele Faoro
 - [Chelidon Frame Site](https://chelidonframe.site/): official site for my experimental electronic project Chelidon Frame;
-- [Stefan Bassing Site](https://www.stefanbassing.com/): official site for Stefan Bassing / Studio Bassing, Singapore-based desing studio;
+- [Studio Bassing Site](https://www.studiobassing.com/): official site for Studio Bassing, Singapore-based desing studio;
 - [urlify](https://alessiopremoli.github.io/urlify/): a simple, small (1kb), and no-dependencies typescript url concatenator to use in requests and API calls. Try it `npm i @alessiopremoli/urlify`
 - [wetcli](https://github.com/alessiopremoli/wetcli): a WIP Python CLI for sending files using WeTransfer;
 - [Associazione 232APS](https://www.associazione232.org/): official site of 232APS, a no-profit that uses hip-hop as a means of expression for young inmates.
