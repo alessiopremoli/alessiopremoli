@@ -9,7 +9,6 @@ Currently working as a freelancer in various fintech companies and making some d
     <img src="https://img.shields.io/badge/-Ionic-3880FF?logo=Ionic&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/-electron-292D37?logo=Electron&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Processing_Foundation-006699?logo=Processing-Foundation&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square">
@@ -20,6 +19,8 @@ Currently working as a freelancer in various fintech companies and making some d
     <img src="https://img.shields.io/badge/-C_Sharp-239120?logo=C-Sharp&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/-fastify-000000?logo=Fastify&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/-electron-292D37?logo=Electron&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Heroku-430098?logo=Heroku&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby&logoColor=white&style=flat-square">
