@@ -34,6 +34,7 @@ Currently working as a freelancer in various fintech companies and making some d
     <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white&style=flat-square"> 
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </p>  
 
 ## 🤖 Take a look to some of my projects
