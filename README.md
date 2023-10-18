@@ -19,6 +19,8 @@ Currently working as a freelancer in various fintech companies and making some d
     <img src="https://img.shields.io/badge/-C_Sharp-239120?logo=C-Sharp&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/remix-%23000.svg?logo=remix&logoColor=white">
     <img src="https://img.shields.io/badge/-fastify-000000?logo=Fastify&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-electron-292D37?logo=Electron&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Heroku-430098?logo=Heroku&logoColor=white&style=flat-square">
@@ -34,7 +36,6 @@ Currently working as a freelancer in various fintech companies and making some d
     <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white&style=flat-square"> 
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </p>  
 
 ## 🤖 Take a look to some of my projects
@@ -45,7 +46,7 @@ Currently working as a freelancer in various fintech companies and making some d
 - [urlify](https://alessiopremoli.github.io/urlify/): a simple, small (1kb), and no-dependencies typescript url concatenator to use in requests and API calls. Try it `npm i @alessiopremoli/urlify`
 - [Associazione 232APS](https://www.associazione232.org/): official site of 232APS, a no-profit that uses hip-hop as a means of expression for young inmates.
 - [Atelier PiccoliBit](https://www.atelierpiccolibit.it/): an online school for digital art, music, poetry, and dance, developed in Angular and Express;
-
+- [Skialper Buyer's Guide](https://thebuyersguide.it/): a digital infrastructure designed to efficiently manage and deliver online data related to product testing in both summer and winter mountain activities; developed with Piramid, made with Remix + DatoCMS (read the showcase [here](https://www.datocms.com/partners/piramid/showcase/skialper-buyer-s-guide))
 
 ## 🤖 Have a listen to some of my sounds
 - [THE DRY STONE [no sound of water]](https://www.youtube.com/watch?v=kHvSMzfzzB8): audiovisual projects consisting in a data sonification of the data from the Italian river's Po draught, a series of reactive visuals and an electroacoustic improvisation. Premiered at MEET Digital Culture Center in Milan in September, 2022 and at BASE Milano in november 2022
